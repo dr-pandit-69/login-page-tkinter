@@ -4,6 +4,8 @@
 Simple & Elegant Login Screen with basic password validation.  
 A Custom Version of Tkinter with Boostrap i.e. ttkboostrap was used in this project as Tkinter looks very old & dated.
 
+Credentials.json contains the credentials that you can change based on your preference
+
 
 
 
